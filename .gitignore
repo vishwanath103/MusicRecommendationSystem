@@ -1,3 +1,4 @@
 features/
 .ipynb_checkpoints/
 *.json
+*.swp
